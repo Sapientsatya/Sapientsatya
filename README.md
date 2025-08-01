@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm SATYA</h1>
 
 ![]()
-![image](<img width="1400" height="350" alt="image" src="<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/ebfcbd1a-566f-4105-b1db-5dc5dd1ba440" />
-)" />
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/ebfcbd1a-566f-4105-b1db-5dc5dd1ba440" />
 
 <h1 align="center">🙋🏻‍♂️ About Me 👋</h1>
 
