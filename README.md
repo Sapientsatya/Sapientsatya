@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm SATYA</h1>
 
 ![]()
-![image](<img width="1400" height="350" alt="image" src="[https://github.com/user-attachments/assets/1d5fcb30-d626-4e18-9419-30c8f4ff56d2](https://media.licdn.com/dms/image/v2/D4E16AQEQcUGQ0z9b7g/profile-displaybackgroundimage-shrink_350_1400/B4EZe7HvaSHYAc-/0/1751191061161?e=1756944000&v=beta&t=2arklstNTKqRiX-hOdllMAKQn1mjdKcTPJ0SuU-RhPw)" />
-)
+![image](<img width="1400" height="350" alt="image" src="<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/ebfcbd1a-566f-4105-b1db-5dc5dd1ba440" />
+)" />
 
 <h1 align="center">🙋🏻‍♂️ About Me 👋</h1>
 
