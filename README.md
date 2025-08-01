@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm SATYA</h1>
 
-![]()
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/ebfcbd1a-566f-4105-b1db-5dc5dd1ba440" />
 
 <h1 align="center">🙋🏻‍♂️ About Me 👋</h1>
@@ -20,5 +19,5 @@ Feel free to connect with me if you’d like to build something cool together!
 <h2 align="center">😎 My Skills 😎</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,materialui,javascript,ts,react,nodejs,express,nextjs,mongo,mysql,git,github,postman,vscode,bash,powershell,notion,npm,,vite&perline=8">
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,materialui,javascript,ts,react,nodejs,express,nextjs,mongo,mysql,git,github,postman,vscode,bash,powershell,notion,npm,vite&perline=8">
 </p>
