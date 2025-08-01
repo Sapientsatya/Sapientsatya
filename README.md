@@ -1,36 +1,28 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Satya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm MANOJ KUMAR</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapientsatya&label=Profile%20views&color=0e75b6&style=flat" alt="sapientsatya" /> </p>
+![](https://komarev.com/ghpvc/?username=BCAPATHSHALA&color=blueviolet&style=flat-square)
+![image](https://raw.githubusercontent.com/BCAPATHSHALA/BCAPATHSHALA/refs/heads/main/twitter.png)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sapientsatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sapientsatya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sapientsatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sapientsatya" height="30" width="40" /></a>
-<a href="https://instagram.com/sapientsatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sapientsatya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sapientsatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sapientsatya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sapientsatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sapientsatya" height="30" width="40" /></a>
-<a href="https://discord.gg/Sapientsatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sapientsatya" height="30" width="40" /></a>
+<h1 align="center">🙋🏻‍♂️ About Me 👋</h1>
+
+I’m Manoj Kumar, a Full Stack Web Developer with over 3 years of experience.
+
+💼 I worked full-time at **Urbantract India Pvt Ltd** as a developer, where I built web apps using **Next.js, React, Node.js, and MongoDB**.
+
+🧑‍💻 I also work as a **freelancer**, helping clients build websites, tools, and SaaS apps for their businesses.
+
+🚀 I’ve launched projects on **Product Hunt**, solved **400+ DSA problems**, and know how to use **Docker, GitHub Actions, and AWS** to deploy apps easily.
+
+🎓 I’m currently learning more at **100xDevs Cohort 3.0**, growing my skills and building new things.
+
+I enjoy coding, exploring new tools, working on side projects, and sharing what I learn.
+
+Feel free to connect with me if you’d like to build something cool together!
+
+---
+
+<h2 align="center">😎 My Skills 😎</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwindcss,materialui,javascript,ts,react,redux,nodejs,express,nextjs,mongo,mysql,supabase,firebase,prisma,postgres,fastapi,cpp,java,git,github,postman,vscode,bash,powershell,bun,deno,elasticsearch,jest,linux,notion,npm,yarn,astro,markdown,vite&perline=8">
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapientsatya&show_icons=true&locale=en&layout=compact" alt="sapientsatya" /></p>
-
-
-<!--
-**Sapientsatya/Sapientsatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
