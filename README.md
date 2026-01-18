@@ -19,5 +19,6 @@ Feel free to connect with me if you’d like to build something cool together!
 <h2 align="center">😎 My Skills 😎</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,sass,materialui,ts,mongo,express,react,nodejs,nextjs,java,mysql,git,github,postman,vscode,bash,powershell,notion,npm,vite&perline=8">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,tailwindcss,sass,materialui,vscode,powershell,notion,&perline=8">
+ <!-- ts,mongo,express,react,nodejs,nextjs,java,mysql,postman,bash,npm,vite -->
 </p>
