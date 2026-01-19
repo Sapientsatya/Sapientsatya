@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Satyamsingh72004@gmail.com**
 
-- 📄 Know about my experiences [https://sapientsatya.netlify.app/assets/Satyam%20Singh%20_%20Resume.pdf](https://sapientsatya.netlify.app/assets/Satyam%20Singh%20_%20Resume.pdf)
+- 📄 Know about my experiences [https://sapientsatya.netlify.app/assets/Satyam%20Singh%20_%20Resume.pdf](https://sapientsatya.netlify.app/assets/Satyam%20Singh%20_%20Resume%20(2).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
